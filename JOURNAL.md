@@ -158,3 +158,24 @@ That’s it for today—I wrapped up the frame design! Thanks again to Kai for t
 Feeling good about the plan, and now I’ve got a solid blueprint to work from.
 
 Next up: Submitting and buying everything (cant wait!!)
+
+
+# Day 5 – Complete Frame Redesign
+
+Today was a big one: I ended up **completely redesigning the frame** from scratch.
+
+After looking over my sketches and some CAD mockups, I realized the original design just wasn’t going to cut it. The proportions felt off, the engine placement was awkward, and there wasn’t enough room for the steering setup I wanted. Plus, I wanted something that was a bit more practical when transporting it.
+
+So, I went back to the drawing board—literally. I spent a few hours sketching new ideas, then jumped into CAD (no help from kai this time) This time, I focused on:
+
+- Lowering the seat position for a better center of gravity
+- Widening the chassis for more stability and comfort
+- Adjusting the engine mount so it fits cleaner and is easier to service
+- Making sure there’s enough space for the steering column and pedals
+- Adding more cross-bracing for strength without adding too much weight
+
+![Day 5 New Frame Design](images/day5-frame-redesign.png)
+
+The new design feels way better than before. I’m way happier with how it looks and functions now.
+
+**Time spent today: 6+ hours (lots of coffee and CAD rage moments)**
